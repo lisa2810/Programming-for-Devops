@@ -22,8 +22,8 @@ def check_server(url):
 
 # Fungsi untuk mengirim email alert
 def send_alert(message):
-    sender = 'harahapmonalisa708@gmail.com'  # Ganti dengan email Anda
-    receiver = 'jidanputra0354@gmail.com'  # Ganti dengan email penerima
+    sender = 'example@gmail.com'  # Ganti dengan email Anda
+    receiver = 'example@gmail.com'  # Ganti dengan email penerima
     password = '***********'  # Ganti dengan password atau App Password
 
     # Membuat pesan email
