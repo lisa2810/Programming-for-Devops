@@ -24,7 +24,7 @@ def check_server(url):
 def send_alert(message):
     sender = 'harahapmonalisa708@gmail.com'  # Ganti dengan email Anda
     receiver = 'jidanputra0354@gmail.com'  # Ganti dengan email penerima
-    password = 'harahaplisa'  # Ganti dengan password atau App Password
+    password = '***********'  # Ganti dengan password atau App Password
 
     # Membuat pesan email
     msg = MIMEMultipart()
